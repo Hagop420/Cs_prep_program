@@ -1,6 +1,6 @@
 // //Challenge 1 
 // function modemean(array) {
-//    // mean calculation
+//  //  // mean calculation
 // const sum = array.reduce((acc, num) => acc + num, 0);
 // const mean = Math.floor(sum / array.length);
 
